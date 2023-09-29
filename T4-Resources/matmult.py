@@ -1,3 +1,9 @@
+""" Matrix methods program """
+
+# Created by: Jonathan Pasco-Arnone and Aidan Lalonde-Novales
+# Created on: September 2023
+
+
 import math
 
 def mult_scalar(matrix, scale):
